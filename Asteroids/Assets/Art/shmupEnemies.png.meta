@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,427 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: shmupEnemies_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5b5998308b8014982f42c488b447d8
+      internalID: -1049634502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1246e86f5f900548bcbee802e588dc8
+      internalID: 1557171585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eab68caa164d8145b58a411e21f05d5
+      internalID: 174178303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd84bb95a28794695c2b378eb80c79
+      internalID: -1983896540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 100
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8821ef3fc6c4c9344b4ac8bd8624c9be
+      internalID: -2036712856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe7b0070e62cb48b282f195e2b8bba
+      internalID: 1201086739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 100
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc0e53905dd4b46ab6bcc2ff5a0dad
+      internalID: -2008723250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 100
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466477fed32a589439c29ef1402f1dc9
+      internalID: -1095601846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 67
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51752e683e020894a95380375bc75b16
+      internalID: -1918262619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 67
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f148559f3c0244e9ab0718535401f2
+      internalID: 842215159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fb1e07d4f6bf4988de9e79e9f6180
+      internalID: 1402668968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 67
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4dc6b73e0105c46a8a981dafa37f48
+      internalID: 990362392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 38
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6dfac58c207c4e8776887272333e4
+      internalID: -1463163230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf888cf4fa60a448b76ad16cc8d2df
+      internalID: 1634945149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5d65b586dd93848b415b1f9982d72c
+      internalID: 1324188036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 38
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20483b169d82934fb8fec3cdc79dcc6
+      internalID: 14279355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249bbea55903204e8655ad55aa23bc6
+      internalID: 1388067667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890ae56989461154ea5916fe34faf540
+      internalID: -1251095051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74322c16240a7394b8e30e8304634ae1
+      internalID: 287443830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shmupEnemies_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3b037859298044e8592b3f91c6c3c3
+      internalID: 1115877840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +552,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shmupEnemies_0: -1049634502
+      shmupEnemies_1: 1557171585
+      shmupEnemies_10: 1402668968
+      shmupEnemies_11: 990362392
+      shmupEnemies_12: -1463163230
+      shmupEnemies_13: 1634945149
+      shmupEnemies_14: 1324188036
+      shmupEnemies_15: 14279355
+      shmupEnemies_16: 1388067667
+      shmupEnemies_17: -1251095051
+      shmupEnemies_18: 287443830
+      shmupEnemies_19: 1115877840
+      shmupEnemies_2: 174178303
+      shmupEnemies_3: -1983896540
+      shmupEnemies_4: -2036712856
+      shmupEnemies_5: 1201086739
+      shmupEnemies_6: -2008723250
+      shmupEnemies_7: -1095601846
+      shmupEnemies_8: -1918262619
+      shmupEnemies_9: 842215159
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

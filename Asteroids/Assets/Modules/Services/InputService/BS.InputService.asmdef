@@ -1,0 +1,17 @@
+{
+    "name": "BS.InputService",
+    "rootNamespace": "",
+    "references": [
+        "BS.Common",
+        "BS.Services.Common"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
