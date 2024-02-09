@@ -1,0 +1,17 @@
+{
+    "name": "SceneTransitionService",
+    "rootNamespace": "",
+    "references": [
+        "Common",
+        "Services.Common"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

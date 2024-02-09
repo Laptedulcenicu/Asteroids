@@ -1,0 +1,26 @@
+{
+    "name": "Core",
+    "rootNamespace": "",
+    "references": [
+        "Common",
+        "Services.Common",
+        "DataService",
+        "InputService",
+        "AudioService",
+        "UIService",
+        "LifecycleService",
+        "SceneTransitionService",
+        "Gameplay",
+        "AssetProviderService",
+        "FactoryService"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
