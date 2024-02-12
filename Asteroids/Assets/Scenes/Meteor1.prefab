@@ -95,9 +95,10 @@ GameObject:
   - component: {fileID: 6448526270448999974}
   - component: {fileID: 3408587147981984274}
   - component: {fileID: -3999068881506211868}
-  m_Layer: 0
+  - component: {fileID: -9007063514021486137}
+  m_Layer: 6
   m_Name: Meteor1
-  m_TagString: Untagged
+  m_TagString: Asteroid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -147,7 +148,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -165,6 +166,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c88a86065d011774ab5119fdc4813c95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  particles: {fileID: 146714, guid: 0ca81ccf433929c4b9d002b5e03f4e82, type: 3}
   rotateObj: {fileID: 2017262985762831484}
   minMaxSpeed: {x: 1, y: 2}
   minMaxRotationSpeed: {x: -50, y: 50}
+  smallAsteroid: {fileID: 3565026942480408477, guid: 014ef47147159554d8e5f745c04d3f9b, type: 3}
+  spawnRadius: 1
+  minAmountOfSmallAsteroids: 1
+  maxAmountOfSmallAsteroids: 3
+  currentSpeed: 0
+--- !u!50 &-9007063514021486137
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4577370460596276990}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0

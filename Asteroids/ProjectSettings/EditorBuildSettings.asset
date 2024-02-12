@@ -6,66 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal01.unity
-    guid: 4d13e17f76e4be1418bd32fe15ac4764
+    path: Assets/Pixel Arsenal/Demo/Scenes/3.unity
+    guid: 639003f7fb1b41a4c846c78ddbc36276
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal02.unity
-    guid: 6a656f65b63027b459ebeb7a2ddeacd1
+    path: Assets/Pixel Arsenal/Demo/Scenes/4.unity
+    guid: 806adebcce1629741b94047cdf4ca61a
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal03.unity
-    guid: 6ce8ea041ea10014abbd72781250999b
+    path: Assets/Pixel Arsenal/Demo/Scenes/5.unity
+    guid: e75dd64d5ff63d444a037a65353b2f35
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal04.unity
-    guid: 4a7aec25c4e57894a802a64ea5e59029
+    path: Assets/Pixel Arsenal/Demo/Scenes/6.unity
+    guid: 9d5ce22cd55c8c94ebe3804829b185e4
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal05.unity
-    guid: f6a608e5e34739d498f3e26e59a4b33e
+    path: Assets/Pixel Arsenal/Demo/Scenes/7.unity
+    guid: 8f611dac4dd550a4aaa07f0c02fa271a
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal06.unity
-    guid: 038dced5a26c124408d51aad599af2ba
+    path: Assets/Pixel Arsenal/Demo/Scenes/8.unity
+    guid: db87ab2f2773c3a4484799fac0b798b0
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal07.unity
-    guid: e1007183d9f13e4418bd4678f882dfa0
+    path: Assets/Pixel Arsenal/Demo/Scenes/9.unity
+    guid: 01566bca8f8ec5a4c81c94fff6ee951e
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal08.unity
-    guid: 5bf5d156c4a0fe0478e94b92ffeb1404
+    path: Assets/Pixel Arsenal/Demo/Scenes/10.unity
+    guid: 20d1c37152ca7334a9fe8e637a975dd5
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal09.unity
-    guid: 397259f948d3b6349b676a0b5b6d19de
+    path: Assets/Pixel Arsenal/Demo/Scenes/demo_beams.unity
+    guid: f06f0f67fdd8a234994258f42c4beddb
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal10.unity
-    guid: a818c8c0cb2c13f42a56ea00396e63f3
+    path: Assets/Pixel Arsenal/Demo/Scenes/demo_missiles.unity
+    guid: 53a44cb1d2dc3214d97af5682ef40c8b
   - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal11.unity
-    guid: b6d7229e94db98e47abbbfc0e5c2ec1f
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal12.unity
-    guid: 2a4c6689d3de21345897c52ce4586741
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal13.unity
-    guid: 9718de43b789e794e8ccf27fa092f900
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal14.unity
-    guid: 245b18fdc98f7a942814c03c366a496f
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal15.unity
-    guid: 922c9f87246b5e944b1fbb3ab7bd1206
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal16.unity
-    guid: 14e1c1886aa3b624ebcfd010f927f07f
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal17.unity
-    guid: 6a018b807932d814a8cb252422a32026
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal18.unity
-    guid: 4dc6f46756f171a4784a802b8343fd98
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal19.unity
-    guid: 62b6615db61352f4da153890eff4ba3b
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal20.unity
-    guid: 4ae69830beb5e5549b9043e916ca639b
-  - enabled: 1
-    path: Assets/Fantasy Portal FX/Demo/Scenes/MagicPortal21.unity
-    guid: 6b46f4b13adcd3a4aa62d1b25706a24b
+    path: Assets/Pixel Arsenal/Demo/Scenes/demoblank.unity
+    guid: 7dcc867c1b819c34187d7cf1bed88cd5
   m_configObjects: {}

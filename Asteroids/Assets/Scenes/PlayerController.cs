@@ -22,6 +22,9 @@ public class PlayerController : MonoBehaviour
     private Vector3 velocity= Vector3.zero;
     private Camera cam;
     private bool isMoving;
+
+    public Vector3 Velocity => velocity;
+
     private void Start()
     {
         EmissionModule1 = value1.emission;

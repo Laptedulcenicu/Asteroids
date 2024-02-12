@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 3090389134143918636}
   - component: {fileID: 6824806046959084805}
+  - component: {fileID: 7693857418820605867}
+  - component: {fileID: 5701590028032234082}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Untagged
@@ -50,6 +52,68 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 8
+--- !u!50 &7693857418820605867
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1017591769408084829}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!58 &5701590028032234082
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1017591769408084829}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.15
 --- !u!1001 &793243763154714155
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -97,6 +161,10 @@ PrefabInstance:
     - target: {fileID: 258479436853276964, guid: a75d8cd0284644740af68346b23e167d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2953468296142677587, guid: a75d8cd0284644740af68346b23e167d, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3510525848369431788, guid: a75d8cd0284644740af68346b23e167d, type: 3}
       propertyPath: m_Name
@@ -172,6 +240,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6098272176030592909, guid: 6a620170f8b2e074793d8e8bd942b774, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -190,6 +262,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3090389134143918636}
     m_Modifications:
+    - target: {fileID: 4509222055000482647, guid: 1247d8bc44aa592488a421ca5488a9d6, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6228242275348007100, guid: 1247d8bc44aa592488a421ca5488a9d6, type: 3}
       propertyPath: m_Name
       value: waveform1 (1)
@@ -256,6 +332,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3090389134143918636}
     m_Modifications:
+    - target: {fileID: 1559010833998369141, guid: df67eb98f4ff0c9449bdeec46ced6531, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3077423148559476750, guid: df67eb98f4ff0c9449bdeec46ced6531, type: 3}
       propertyPath: m_Name
       value: pulse4
@@ -361,6 +441,10 @@ PrefabInstance:
     - target: {fileID: 5340646660461541134, guid: bf5bcdce5acdc6c4c925a34833af68c2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544106028748542567, guid: bf5bcdce5acdc6c4c925a34833af68c2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8043290635595880153, guid: bf5bcdce5acdc6c4c925a34833af68c2, type: 3}
       propertyPath: m_Name
